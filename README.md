@@ -1,3 +1,8 @@
+
+Auteurs :
+Bastien Hiel
+Viviane de Pétigny
+
 Small exercices in Ruby -- RSpec 3 Edition
 ==========
 
