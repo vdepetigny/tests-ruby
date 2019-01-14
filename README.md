@@ -2,6 +2,7 @@
 Auteurs :
 Bastien Hiel
 Viviane de Pétigny
+Alexis Janin
 
 Small exercices in Ruby -- RSpec 3 Edition
 ==========
